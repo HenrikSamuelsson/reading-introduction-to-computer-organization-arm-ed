@@ -1,6 +1,6 @@
-# Reading Introduction to Computer Organization: ARM edition
+# Reading Introduction to Computer Organization
 
-Notes on the book Introduction to Computer Organization: ARM edition, Robert G. Plantz, No Starch Press (2024).
+Notes on the book Introduction to Computer Organization: ARM Edition, Robert G. Plantz, No Starch Press (2024).
 
 ## Abbreviations
 
