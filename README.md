@@ -18,6 +18,29 @@ Programs are generally implemented by a programmer using a human friendly high-l
 
 The book teaches low-level details about how computers work.
 
-It is assumed that the reader knows how to program in a high-level language, and the book will focus on underlying low-level *assembly language*, that translates directly to machine instructions.
+Knowledge in a high-level programming language is assumed, the book focuses on underlying low-level *assembly language*, that translates directly to machine instructions.
 
-Writing in assembly is harder than writing in a high level program, the main high-level programming language used in the book is C.
+Writing in assembly is harder than writing in a high level programming language such as C, which is also used in the book.
+
+### About the Book
+
+Will learn by going hands-on with inexpensive easy to find hardware.
+
+#### The Programming in the Book
+
+Content is based on the ARM AArch64 architecture.
+
+Platform used is the 64-bit Raspberry Pi OS running on Raspberry Pi 3 and Raspberry Pi5.
+
+Will mostly use C and some C++, as high-level programming language.
+
+C standard library is used to be able to have the applications use screen and keyboard.
+
+#### Why Read This Book?
+
+Book gives low-level knowledge which is good for:
+
+- Helping us write better programs in a high-level programming language
+- Doing systems programming such as operating systems and compilers
+- Embedded systems development
+- Having an easier time reading ARM manuals
