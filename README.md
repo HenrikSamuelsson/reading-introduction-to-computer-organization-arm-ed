@@ -4,8 +4,9 @@ Notes on the book Introduction to Computer Organization: ARM Edition, Robert G. 
 
 ## Abbreviations
 
-List of abbreviators used in the book.
+List of abbreviations used in the book.
 
+*CMOS*&#x2003;complementary metal-oxide semiconductor
 *ISA*&#x2003;instruction set architecture  
 
 ## Introduction
@@ -38,9 +39,27 @@ C standard library is used to be able to have the applications use screen and ke
 
 #### Why Read This Book?
 
-Book gives low-level knowledge which is good for:
+Book gives low-level knowledge, beneficial for:
 
 - Helping us write better programs in a high-level programming language
 - Doing systems programming such as operating systems and compilers
 - Embedded systems development
 - Having an easier time reading ARM manuals
+
+#### Chapter Organization
+
+Three main parts, with different focuses:
+
+1. Mathematics and logic
+2. Hardware
+3. Software
+
+First part providing a foundation to later understand how software controls the hardware.
+
+The chapters in the book are:
+
+1. Setting the Stage - Computer fundamentals and discussion on tools setup
+2. Data Storage Formats - How number and characters are stored
+3. Computer Arithmetic - Addition and subtraction of integers
+4. Boolean Algebra - Boolean operators and tools for manipulation
+5. Logic Gates - Electronics and logic gates
