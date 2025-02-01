@@ -111,4 +111,4 @@ Next step is chapter 1, that discusses major parts of a computer and how to work
 
 Will start by introducing a separation of computers into three different subsystems, setting a framework for further discussions.
 
-The chapter will also be about how to practically set up the programming environment needed later on.
+The chapter will also discuss set up of the programming environment to be used in the rest of the book.
