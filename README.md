@@ -106,3 +106,9 @@ Prefer to type in the code yourself, and don't just copy paste the code.
 Use the same hands on approach on he math chapters, do the math by hand, don't use a calculator or on-line service.
 
 Next step is chapter 1, that discusses major parts of a computer and how to work with the Raspberry Pi.
+
+## Chapter 1 - Setting the Stage
+
+Will start by introducing a separation of computers into three different subsystems, setting a framework for further discussions.
+
+The chapter will also be about how to practically set up the programming environment needed later on.
