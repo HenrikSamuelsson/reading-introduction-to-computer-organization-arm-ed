@@ -2,9 +2,18 @@
 
 Notes on the book Introduction to Computer Organization: ARM Edition, Robert G. Plantz, No Starch Press (2024).
 
+## Resources
+
+Links related to the book:
+
+[The publishers page about the book.](https://nostarch.com/introcomputerorgforarm)  
+[The authors page about the book.](https://rgplantz.github.io/itco_ARM/)  
+[amazon.com page about the book.](https://www.amazon.com/Introduction-Computer-Organization-Robert-Plantz/dp/1718502745)  
+
+
 ## Abbreviations
 
-List of abbreviations used in the book.
+List of abbreviations used in the book:
 
 *CMOS*&#x2003;complementary metal-oxide semiconductor
 *ISA*&#x2003;instruction set architecture  
@@ -96,4 +105,4 @@ Prefer to type in the code yourself, and don't just copy paste the code.
 
 Use the same hands on approach on he math chapters, do the math by hand, don't use a calculator or on-line service.
 
-Next step is chapter 1 that discusses major parts of a computer and how to work with the Raspberry Pi.
+Next step is chapter 1, that discusses major parts of a computer and how to work with the Raspberry Pi.
