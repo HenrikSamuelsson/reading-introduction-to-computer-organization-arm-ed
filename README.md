@@ -61,5 +61,21 @@ The chapters in the book are:
 1. Setting the Stage - Computer fundamentals and discussion on tools setup
 2. Data Storage Formats - How number and characters are stored
 3. Computer Arithmetic - Addition and subtraction of integers
-4. Boolean Algebra - Boolean operators and tools for manipulation
-5. Logic Gates - Electronics and logic gates
+4. Boolean Algebra - Boolean algebra and tools for working within this field
+5. Logic Gates - Electronics followed by logic gates
+6. Combinatorial Logic Circuits - Simple logic circuits without memory; adders, decoders, multiplexers
+7. Sequential Logic Circuits - Logic circuits with built-in memory; with an state
+8. Memory - The different types of computer memory
+9. Central Processing Unit - The unit that executes instructions and its registers
+10. Programming in Assembly Language - Both as output from a compiler and hand written assembly
+11. Inside the `main` function - Register access, position-independent code, the call stack
+12. Instruction Details - Instructions at the bit level and how addressing works
+13. Control Flow Constructs - How to achieve flow control such as `while`, `for` and `if`-`else` in assembly
+14. Inside Subfunctions - How the various variable types are connected to functions and how a stack frame is constructed
+15. Special Uses of Subfunctions - Recursion also access to functions of the CPU hidden away by high-level languages
+16. Instructions - Bitwise logic, multiplication, and division instructions
+17. Data Structures - How arrays and structs are implemented at the assembly level
+18. Object-Oriented Programming - Structs as objects in C++
+19. Fractional Numbers - Fixed and floating point numbers representation
+20. Input/Output - How to work with memory mapped I/O, especially on the Raspberry Pi, both in C and assembly
+21. Exceptions and Interrupts - Introduction to exceptions and interrupts on the AArch64 architecture
