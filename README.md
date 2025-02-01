@@ -15,7 +15,7 @@ A computer is a machine that can solve problems, by executing a program in the f
 
 Programs are generally implemented by a programmer using a human friendly high-level language, rather than working directly with the ISA.
 
-### Who the Book is For
+### Who the Book Is For
 
 The book teaches low-level details about how computers work.
 
@@ -79,3 +79,21 @@ The chapters in the book are:
 19. Fractional Numbers - Fixed and floating point numbers representation
 20. Input/Output - How to work with memory mapped I/O, especially on the Raspberry Pi, both in C and assembly
 21. Exceptions and Interrupts - Introduction to exceptions and interrupts on the AArch64 architecture
+
+### Efficient Use of the Book
+
+The author aims to provide an efficient learning experience.
+
+There are exercises called "Your Turn"' to practice, solutions to most of these can then be found at [Solutions to Your Turn Exercises](https://rgplantz.github.io/itco_ARM/).
+
+Approach to work with the exercises:
+
+1. Get hands on trying yourself
+2. If step 1 fails then peek the solution
+3. Return to step 1. and fix the solution
+
+Prefer to type in the code yourself, and don't just copy paste the code.
+
+Use the same hands on approach on he math chapters, do the math by hand, don't use a calculator or on-line service.
+
+Next step is chapter 1 that discusses major parts of a computer and how to work with the Raspberry Pi.
